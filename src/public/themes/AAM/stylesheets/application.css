@@ -123,6 +123,29 @@ margin-left:5px;
 .board.details .contextual .icon-add::before {
 content: '\e042';
 }
+
+#admin-menu a.circuit-groups {
+  background-image: url(../../../images/circuit_groups.png);
+}
+#admin-menu a.cinemas {
+  background-image: url(../../../images/cinemas.png);
+}
+#admin-menu a.screens {
+  background-image: url(../../../images/screens.png);
+}
+#admin-menu a.devices {
+  background-image: url(../../../images/devices.png);
+}
+#admin-menu a.working-periods {
+  background-image: url(../../../images/working_periods.png);
+}
+
+.icon-pause {
+  background-image: url(../../../images/pause.png);
+}
+.icon-pause-list {
+  background-image: url(../../../images/pause_list.png);
+}
 /**
 MAIN HEADER
 **/
